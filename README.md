@@ -3,7 +3,7 @@
 This repository contains the source code and design layout for my single-page personal portfolio website built for the HCI Lab assignment.
 
 ## 📌 Links
-- **Live Demo (GitHub Pages):** https://jay-lynnnn.github.io/your-repo-name/
+- **Live Demo (GitHub Pages):** https://jay-lynnnn.github.io/your-repo-name/](https://jay-lynnn.github.io/HCI_LAB_Project/
 - **Wireframe:** https://www.figma.com/design/6qtoJmqoAQ1Ybrag8ceYJ6/Untitled?node-id=0-1&t=ReSyzxTp5qBvweic-1
 
 ## 🛠️ Built With
